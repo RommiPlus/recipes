@@ -7,10 +7,14 @@ This is a bread recipe
 This is a bread recipe
 
 This is a bread recipe
-
+Something changed in bread-recipe,it should merge to master
+Something changed in bread-recipe,it should merge to master
+Something changed in bread-recipe,it should merge to master
 This is a bread recipe
 
 Something is go wrong, we should modifiy it.
 Oh ahahahahaha
 
+Something changed in bread-recipe,it should merge to master
+Something changed in bread-recipe,it should merge to master
 Something changed in bread-recipe,it should merge to master
